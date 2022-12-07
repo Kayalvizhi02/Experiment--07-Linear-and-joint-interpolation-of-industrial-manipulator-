@@ -34,40 +34,20 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 ### Figure -01 difference between P-P , joint and linear interpolation 
 
+### Robot movements :
+![image](https://user-images.githubusercontent.com/75413726/206203866-700afbef-718e-43a8-bd82-e0c474e552fd.png)
+![image](https://user-images.githubusercontent.com/75413726/206203895-bbc5c953-fc21-43dd-805e-d78d753b6d46.png)
+![image](https://user-images.githubusercontent.com/75413726/206203948-9db6677c-41fd-474b-ba18-209692350187.png)
+![image](https://user-images.githubusercontent.com/75413726/206203991-0a721805-6cb7-4e11-87a4-d7c5d76659eb.png)
+![image](https://user-images.githubusercontent.com/75413726/206204078-c31eb0c4-503b-4af2-8964-ca521260e821.png)
+![image](https://user-images.githubusercontent.com/75413726/206204111-1ef8ea55-fb83-4fe0-a79b-7e68dcd00f34.png)
+![image](https://user-images.githubusercontent.com/75413726/206204155-29f970f7-7569-4d91-9703-3d4c1a19bedc.png)
+![image](https://user-images.githubusercontent.com/75413726/206204214-762c54ee-78fb-4621-b2b4-e5d6df04910d.png)
 
-### Program : 
-DART studio screen shots for linear interpolation 
-
-
-
-
-
-
-
-
-
-DART studio screen shots for joint interpolation 
-
-
-
-
-
-
-
-
-### Robot movements 
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Output:
+![image](https://user-images.githubusercontent.com/75413726/206204280-188f36e0-3c92-49d0-be19-91018120ac78.png)
+![image](https://user-images.githubusercontent.com/75413726/206204482-0b24b6da-0046-4c62-a723-59611377cc75.png)
 
 ### Results:  
+
+A program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio has been executed successfully.
